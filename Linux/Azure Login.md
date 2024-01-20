@@ -1,1 +1,0 @@
-../Windows/Azure Login.md
